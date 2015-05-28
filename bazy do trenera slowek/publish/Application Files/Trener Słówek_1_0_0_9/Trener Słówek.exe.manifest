@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Trener Słówek.exe" version="1.0.0.9" publicKeyToken="d1cfc2b53f6444be" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="globe red.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Trener Słówek" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Trener Słówek.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.SQLite.Linq" version="1.0.90.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.Data.SQLite.dll" size="882176">
+      <assemblyIdentity name="System.Data.SQLite" version="1.0.90.0" publicKeyToken="DB937BC2D44FF139" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>x2JIXScNT9imvYR3cBpeRlJ8k1cwu0sBB3I9mEEWQVU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Trener Słówek.exe" size="1220096">
+      <assemblyIdentity name="Trener Słówek" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Qslb+QO9aVltzZbpdoQwL8jgZkHCsnsRnejKmfw0r8o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="globe red.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rPNkjGy4gdFYu+Uuzby1Oh9sLsMPH81KAc+0eA+6h6A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="hi-256-0-95bf60cfe50be9344c10a85e8eec9ae7c645cb88.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Ioso9gMlb7copBvq7J74P9I3qw9C0MIOEFEBeuNMdEE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="System.Data.SQLite.dll" size="882176">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>x2JIXScNT9imvYR3cBpeRlJ8k1cwu0sBB3I9mEEWQVU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="System.Data.SQLite.Linq.dll" size="182784">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>h7fKNxJBKcezpXa8HLybY4YI5J09gy31QKTYx1vZuWA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Trener Słówek.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=VOSTRO\pawel33317" issuerKeyHash="cc02ccd37de04cfa49f0bc369cd08fbc42b7ca8e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>O9PM6xPT6Lr51QsKEOpf8DUPjrIgVUi/KUldM8ZslRs=</DigestValue></Reference></SignedInfo><SignatureValue>Qk7EnE3Bdwrl3RA3tDM5njbFR7ztCZRnkir5NKSDXdT6P21o0vyn3xPVbN0oC4beEhGsEfAWPY//KAORr2FSD33mdeAmnfnBEZwYiH0FT2se+jHbd/z5psuczoEgOF+GPVuA9StdtEInRfhb8/O9p0IPJlaqB6oF6qjK1wIZkgk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rsriXb3hVvT93YjH0N4GlvxkRcxgfgA+BtGcXIDZzFsY6qFdrxWWXNehOB9LNgjBYP0EfxGcXj/A81JjkgOKbQZaklM9SvIFxVHWlu5yAlkD8f/CZPk2rOSbHq80rFD7d24MyVsnclVDz2cuTqbP82A3boXC/bKlLSiAdzY4Qrk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="1b956cc6335d4929bf485520b28e0f35f05fea100a0bd5f9bae8d313ebccd33b" Description="" Url=""><as:assemblyIdentity name="Trener Słówek.exe" version="1.0.0.9" publicKeyToken="d1cfc2b53f6444be" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=VOSTRO\pawel33317</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>LAiDktSHOiRV6drUpngBKDEwuIDk16WVnIz20bXAeYA=</DigestValue></Reference></SignedInfo><SignatureValue>EDJU3aiv1EroSAuPzGgmQ0iUO+ZaN5+yXUt4vI93MEtpKiJc8JYU57//TOGk8xnd6LwO9AzA3qmGpyhfLMhMY3ptG68osTH6nOYk1irMx+dkNJxlbzWbFKBlRyBNwWzkavfuyaiWddGo8GGACw/pHp9nfK0OPN2xMOksowx7/ms=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rsriXb3hVvT93YjH0N4GlvxkRcxgfgA+BtGcXIDZzFsY6qFdrxWWXNehOB9LNgjBYP0EfxGcXj/A81JjkgOKbQZaklM9SvIFxVHWlu5yAlkD8f/CZPk2rOSbHq80rFD7d24MyVsnclVDz2cuTqbP82A3boXC/bKlLSiAdzY4Qrk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQUFSC46eB1b1JZk2qXas/oDANBgkqhkiG9w0BAQsFADAtMSswKQYDVQQDHiIAVgBPAFMAVABSAE8AXABwAGEAdwBlAGwAMwAzADMAMQA3MB4XDTE0MDEwMzIxMTA0OVoXDTE1MDEwNDAzMTA0OVowLTErMCkGA1UEAx4iAFYATwBTAFQAUgBPAFwAcABhAHcAZQBsADMAMwAzADEANzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArsriXb3hVvT93YjH0N4GlvxkRcxgfgA+BtGcXIDZzFsY6qFdrxWWXNehOB9LNgjBYP0EfxGcXj/A81JjkgOKbQZaklM9SvIFxVHWlu5yAlkD8f/CZPk2rOSbHq80rFD7d24MyVsnclVDz2cuTqbP82A3boXC/bKlLSiAdzY4QrkCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBoL97URbvvWXVFs0B73nbjNvX1/BC65ouoglC46VRSoS4hQ6U/nHTWLBJc6dyV+nq9fwEARYAR4r2A501+Ugcoxhcgv/UVPBTwdMWxNNFTOdIwJ/V47PVPJClpFV9M8Tia6YM/AigZ7sjLCN1C3GvejaCjb6oH7gTXWxpSz6YTAw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

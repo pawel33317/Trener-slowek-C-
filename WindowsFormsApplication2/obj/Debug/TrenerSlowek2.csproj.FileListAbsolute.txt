@@ -1,0 +1,63 @@
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TrenerSlowek.Edycja.resources
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TrenerSlowek.Glowne.resources
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TrenerSlowek.Properties.Resources.resources
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TrenerSlowek2.csproj.GenerateResource.Cache
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.dll
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\TrenerSlowek2.csprojResolveAssemblyReference.cache
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Trener Słówek.exe.config
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Trener Słówek.exe
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Trener Słówek.pdb
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Trener Słówek.exe
+c:\users\pawel33317\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Trener Słówek.pdb
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.exe.config
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\obj\Debug\Trener Słówek.exe
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\obj\Debug\Trener Słówek.pdb
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.exe.manifest
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.application
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.exe
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.pdb
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek2.csprojResolveAssemblyReference.cache
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek.Edycja.resources
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek.Glowne.resources
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek.Properties.Resources.resources
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek2.csproj.GenerateResource.Cache
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\obj\Debug\Trener Słówek.exe.manifest
+C:\Users\pawel33317\Documents\Visual Studio 2013\Projects\TrenerSlowek\WindowsFormsApplication2\obj\Debug\Trener Słówek.application
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.exe.config
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\obj\Debug\Trener Słówek.exe
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\obj\Debug\Trener Słówek.pdb
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.exe.manifest
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.application
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.exe
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Trener Słówek.pdb
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek2.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek.Edycja.resources
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek.Glowne.resources
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek.Properties.Resources.resources
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\obj\Debug\TrenerSlowek2.csproj.GenerateResource.Cache
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\obj\Debug\Trener Słówek.exe.manifest
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\obj\Debug\Trener Słówek.application
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\matematyka1.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\matematyka3.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\obowiazkowe.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\sl_podanie_o_prace.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\sl_wykresy.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\sl_zazalenie.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit1.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit10.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit11.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit12.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit13.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit14.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit15.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit16.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit2.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit3.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit4.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit5.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit6.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit7.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit8.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\unit9.db
+C:\Users\Paweł\Desktop\TrenerSlowek\WindowsFormsApplication2\bin\Debug\Resources\wordformation1.db
